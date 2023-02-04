@@ -1,4 +1,4 @@
-# SignalR Real-Time Communication Example Solution
+# SignalR 101: A Beginner's Guide to Real-time Web Communication in .NET 6
 This example solution demonstrates how to build real-time communication in .NET web applications using SignalR. The solution contains three projects:
 
 - Server Hub: A .NET Web API project that serves as the server hub for real-time communication.
